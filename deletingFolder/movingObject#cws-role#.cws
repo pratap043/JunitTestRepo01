@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="28DFEB6B-98A5-A1ED-83B4-BD4A9F3EC985">
+	<DocumentID>28DFEB6B-98A5-A1ED-83B4-BD4A9F3E8985</DocumentID>
+	<Name>movingObject</Name>
+	<Description/>
+	<CreatedBy>pmeka</CreatedBy>
+	<CreationDate>2022-07-29T00:11:19.999</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Application</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>
