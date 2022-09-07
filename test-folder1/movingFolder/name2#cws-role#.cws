@@ -3,12 +3,12 @@
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.organization.role.RoleDesignTime"
 	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
-	RuntimeDocumentID="28DFEB6B-98A5-A1ED-8B9B-F80CDFE2098A">
-	<DocumentID>28DFEB6B-98A5-A1ED-8B9B-F80CDFE1C98A</DocumentID>
-	<Name>name1</Name>
-	<Description>changed description</Description>
+	RuntimeDocumentID="28DFEB6B-98A5-A1ED-8B9B-F80CDFF8C98A">
+	<DocumentID>28DFEB6B-98A5-A1ED-8B9B-F80CDFF8898A</DocumentID>
+	<Name>name2</Name>
+	<Description/>
 	<CreatedBy>pmeka</CreatedBy>
-	<CreationDate>2022-09-07T05:42:36.726</CreationDate>
+	<CreationDate>2022-09-07T05:42:43.801</CreationDate>
 	<Notes/>
 	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
 	<ExposeForReuse>false</ExposeForReuse>
