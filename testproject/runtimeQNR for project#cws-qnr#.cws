@@ -1,0 +1,13 @@
+
+<QualifiedNameRoot
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.namespace.qualifiedname.QualifiedNameRoot"
+	typeVersion="9bd1dc20-2f5e-11e3-aa6e-0800200c9a66"
+	RuntimeDocumentID="28DFEB6B-98A5-A1ED-8D3F-A9A3E9E3C98B">
+	<DocumentID>28DFEB6B-98A5-A1ED-8D3F-A9A3E9E3898B</DocumentID>
+	<Name>runtimeQNR for project</Name>
+	<Description/>
+	<CreatedBy>pmeka</CreatedBy>
+	<CreationDate>2022-09-15T13:59:45.054</CreationDate>
+	<Notes/>
+</QualifiedNameRoot>
